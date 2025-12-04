@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "codex": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["mcp-servers/codex-server/index.js"]
+    },
+    "gemini": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["mcp-servers/gemini-server/index.js"]
+    }
+  }
+}

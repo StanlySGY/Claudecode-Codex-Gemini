@@ -1,0 +1,32 @@
+{
+  "_comment": "⚠️ 15236是示例端口，请改成你自己的魔法端口！Gemini认证需要代理访问Google",
+  "proxy": {
+    "enabled": true,
+    "http": "http://127.0.0.1:15236",
+    "https": "http://127.0.0.1:15236"
+  },
+  "gemini": {
+    "command": "gemini",
+    "defaultArgs": ["-o", "stream-json", "--yolo"],
+    "sandbox": "workspace-write",
+    "timeout": 300000,
+    "environment": {
+      "GEMINI_IDE_INTEGRATION": "false"
+    }
+  },
+  "codex": {
+    "command": "codex",
+    "defaultArgs": ["exec", "--skip-git-repo-check"],
+    "sandbox": "workspace-write",
+    "approvalPolicy": "on-failure",
+    "timeout": 300000
+  },
+  "windows": {
+    "forceUserprofileAsHome": true,
+    "preferCmdExtension": true
+  },
+  "logging": {
+    "enabled": true,
+    "level": "INFO"
+  }
+}

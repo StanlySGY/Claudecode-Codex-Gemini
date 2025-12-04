@@ -1,0 +1,60 @@
+# AI Orchestrator工作目录
+.ai-orchestrator/
+
+# 文章文件（不提交）
+2025-*.md
+
+# Node modules
+node_modules/
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 日志文件
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 临时文件
+*.tmp
+*.temp
+*~
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+nul
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# 测试输出
+test-output/
+coverage/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python虚拟环境
+venv/
+.venv/
+ENV/
+env/
+
+# MCP上下文缓存（敏感数据）
+.mcp-context/
+
+# 构建输出
+dist/
+build/
+*.egg-info/
