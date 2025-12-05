@@ -1,8 +1,4 @@
-请我喝杯咖啡
-![c34d5b65303bb32c182a259d4a1be27e](https://github.com/user-attachments/assets/5ed4ce28-1635-4f23-be2c-3599084eb6ca)
-
-加我好友，请备注**AI**
-![216d23c6c4951ebbae60144883ee6b70](https://github.com/user-attachments/assets/f8838c73-c6fd-4c0d-82fc-05cef2b2cf05)
+<img width="876" height="544" alt="image" src="https://github.com/user-attachments/assets/79f6669a-d0b3-47db-8b3f-0f38cf0b97b2" />
 
 
 # 智能多CLI编排系统 (AI Orchestrator)
