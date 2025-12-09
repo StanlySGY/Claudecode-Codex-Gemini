@@ -1,5 +1,3 @@
-<img width="876" height="544" alt="image" src="https://github.com/user-attachments/assets/79f6669a-d0b3-47db-8b3f-0f38cf0b97b2" />
-
 ## 📝 更新日志
 
 ### 2025-12-08
